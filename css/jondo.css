@@ -1,0 +1,28 @@
+/* Theme Jondo*/
+
+main {
+	background: #F2E3D5;
+	color: #024959;
+}
+
+a {
+	text-decoration: none;
+	color: #024959;
+}
+
+a:hover {
+	border-bottom: 1px solid;
+}
+
+.icons-social a {
+	color: #024959;
+}
+
+.icons-social a svg path{
+	color: #024959;
+}
+
+.icons-social a:hover{
+	border-bottom: 0px solid;
+	color: #00ACEE;
+}
